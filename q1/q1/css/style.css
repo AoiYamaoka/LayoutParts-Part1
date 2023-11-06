@@ -1,2 +1,29 @@
 @charset "UTF-8";
 /* 回答はここから */
+
+@charset "UTF-8";
+
+.white-box {
+  width: 200px;
+  background: #fff;
+  padding: 20px 0;
+  font-size: 16px;
+}
+
+.text-box {
+  text-align: center;
+}
+
+.text-align {
+  display: inline-block;
+  background: #a4b3e9;
+  padding: 10px;
+}
+
+.margin-box {
+  background: #a4b3e9;
+  width: 90px;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
